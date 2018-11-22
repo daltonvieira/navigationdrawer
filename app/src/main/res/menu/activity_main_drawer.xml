@@ -24,7 +24,7 @@
     <item android:title="configuraçôes"/>
 
         <menu>
-            <item android:id="@id/configuracao"
+            <item android:id="@+id/configuracao"
                 android:title="Configuração"
                 android:icon="@drawable/ic_menu_configuracoes"/>
         </menu>
